@@ -7,8 +7,8 @@ Crawler to dump mtgoldfish pauper data.
 
 ---
 ## Install:
-1. get docker
-2. docker build . -t hedron_crawler
-3. docker run hedron_crawler
+> docker build . -t hedron_crawler
+
+> docker run hedron_crawler
 
 ## IN PROGRESS
